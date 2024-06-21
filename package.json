@@ -1,0 +1,12 @@
+{
+  "name": "zd-269826",
+  "version": "1.0.0",
+  "description": "",
+  "author": "RC Maples",
+  "dependencies": {
+    "@netlify/edge-functions": "^2.8.1",
+    "@netlify/functions": "^2.8.0",
+    "netlify-cli": "^17.29.0"
+  },
+  "type": "module"
+}
